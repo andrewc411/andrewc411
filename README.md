@@ -1,4 +1,4 @@
-# ⚡️ Welcome to Andrew's Github Profile ⚡️
+#  🏔 Welcome to Andrew's Github Profile  🏔
 
 
 - 🔭 I’m currently working on finding a job as a developer!  
