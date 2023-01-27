@@ -6,4 +6,4 @@
 - 💹 Proficient in HTML, CSS, and Javascript  
 - 💬 Ask me about my time in the GT Bootcamp 🥾
 - 📫 How to reach me: carroll.andrew.r@gmail.com  
-- ⚡ Fun fact: I used to be a service industry worker, working for the sake of survival alone. Now I work as a developer. I work when and where I want to express my creativity while learning skills to enrich my life and further my career in tech 🥰  
+- ⚡ Fun fact: I used to be a service industry worker, working for the sake of survival alone. Now I work as a developer. I work when and where I want, to express my creativity while learning skills to enrich my life and further my career in tech 🥰  
